@@ -4,7 +4,7 @@ Analyse des ventes E-commerce
 
 Description
 
-Ce projet Python permet d’analyser des données de ventes issues d’un système e-commerce. Il calcule des indicateurs clés tels que le chiffre d’affaires brut et net, la TVA, et propose des analyses par catégorie, genre et date. Des visualisations sont également générées pour faciliter l’interprétation des النتائج.
+Ce projet Python permet d’analyser des données de ventes issues d’un système e-commerce. Il calcule des indicateurs clés tels que le chiffre d’affaires brut et net, la TVA, et propose des analyses par catégorie, genre et date. Des visualisations sont également générées pour faciliter l’interprétation des .
 
 Objectifs
 
@@ -62,7 +62,9 @@ Le script génère :
 - Des graphiques représentant les tendances des ventes
 
 Auteur
-Nom : Rayhane Berzig  Rayhen Romdhan nawal garssalla
+Nom : Rayhane Berzig
+  Rayhen Romdhan 
+  Nawal Garssallah
 Classe : LMA2 
 Établissement : faculte de science de tunis (FST)
 
