@@ -62,9 +62,16 @@ Le script génère :
 - Des graphiques représentant les tendances des ventes
 
 Auteur
+<<<<<<< HEAD
 Nom : Rayhane Berzig
   Rayhen Romdhan 
   Nawal Garssallah
+=======
+Nom : 
+Rayhane Berzig  
+Rayhen Romdhan
+Nawal Garssallah
+>>>>>>> 2e0e8c357bbc877cef3950ae10fb82f7997f22f4
 Classe : LMA2 
 Établissement : faculte de science de tunis (FST)
 
